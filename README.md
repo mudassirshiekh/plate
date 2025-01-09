@@ -40,6 +40,7 @@ You can learn more about Plate by checking out our [documentation](https://plate
 To get started, check out our [contributing guide](CONTRIBUTING.md).
 
 ### Contributors
+## By Mudassir Alam
 
 We'd love for you to join us! Whether it's through giving us a 🌟 star, making a 📥 pull request, or **sharing your plugins**, your help is always appreciated.
 
